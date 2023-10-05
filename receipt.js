@@ -1,0 +1,14 @@
+console.log ("=====================================");
+console.log ("           KTOWN RECEIPT             ");
+console.log ("-------------------------------------");
+console.log ("            Order Details            ");
+console.log ("Item           Quantity     Price ($)");
+console.log ("-------------------------------------");
+console.log ("Tteokbokki       1              7.99 ");
+console.log ("  Add Cheese                    0.75 ");
+console.log ("-------------------------------------");
+console.log ("                                8.74");
+console.log ("Tax                             0.53");
+console.log ("-------------------------------------");
+console.log ("TOTAL:                          9.26");
+console.log ("=====================================");
